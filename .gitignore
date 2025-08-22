@@ -1,4 +1,4 @@
-pycache/
-*.pyc
-.env
-.venv/
+•	pycache/
+	•	*.pyc
+	•	.env
+	•	.venv/
